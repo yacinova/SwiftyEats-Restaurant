@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Parcel cache
+.parcel-cache
+
+# Production build
+/dist
+
+# Misc
+.DS_Store
+*.log
